@@ -4,7 +4,7 @@ This plugin forces the WP Google Maps importer to use a different API key to the
 
 ## Installation ##
 
-- Click "Download ZIP" on this screen
+- Click "Clone" -> "Download ZIP" on this screen
 - Go to your WordPress dashboard
 - Go to Plugins -> Add New -> Upload Plugins
 - Upload the ZIP you downloaded just now
